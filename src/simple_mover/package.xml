@@ -4,7 +4,7 @@
   <name>simple_mover</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="damara@todo.todo">damara</maintainer>
+  <maintainer email="mghifathoriq@todo.todo">mghifathoriq</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
